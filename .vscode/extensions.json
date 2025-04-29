@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "bierner.markdown-footnotes",
+    "bierner.markdown-preview-github-styles",
+    "DavidAnson.vscode-markdownlint",
+    "fnando.linter",
+    "redhat.vscode-yaml",
+    "yahyabatulu.vscode-markdown-alert"
+  ]
+}
