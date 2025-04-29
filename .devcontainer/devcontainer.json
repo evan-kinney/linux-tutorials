@@ -1,0 +1,22 @@
+{
+  "name": "Alpine",
+  "image": "mcr.microsoft.com/devcontainers/base:alpine-3.20",
+  "features": {
+    "ghcr.io/devcontainers-extra/features/markdownlint-cli:1": {},
+    "ghcr.io/devcontainers-extra/features/yamllint:2": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "bierner.markdown-checkbox",
+        "bierner.markdown-emoji",
+        "bierner.markdown-footnotes",
+        "bierner.markdown-preview-github-styles",
+        "DavidAnson.vscode-markdownlint",
+        "fnando.linter",
+        "redhat.vscode-yaml",
+        "yahyabatulu.vscode-markdown-alert"
+      ]
+    }
+  }
+}
