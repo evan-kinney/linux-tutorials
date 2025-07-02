@@ -2,3 +2,4 @@
 
 - [Create Certificate Authority](create-certificate-authority.md)
 - [Install Docker](install-docker.md)
+- [Install Kubernetes](install-kubernetes.md)
