@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/evan-kinney/linux-tutorials/compare/1.1.0...1.1.1) (2025-07-02)
+
+
+### Bug Fixes
+
+* **proxmox:** Fix numbering of steps in Encrypted Proxmox installation tutorials ([15c84d4](https://github.com/evan-kinney/linux-tutorials/commit/15c84d4b88583e46e37599265d51e60f2f56e654))
+
 # [1.1.0](https://github.com/evan-kinney/linux-tutorials/compare/1.0.0...1.1.0) (2025-07-02)
 
 
