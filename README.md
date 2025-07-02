@@ -1,5 +1,9 @@
 # Linux Tutorials
 
+## [Debian](debian/README.md)
+
+- [Create Certificate Authority](debian/create-certificate-authority.md)
+
 ## [Proxmox](proxmox/README.md)
 
 - [Encrypted Proxmox installation using mirrored ZFS](proxmox/encrypted-proxmox-installation-using-mirrored-zfs.md)
