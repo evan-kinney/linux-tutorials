@@ -20,6 +20,7 @@
 ## [Ubuntu](ubuntu/README.md)
 
 - [Create Certificate Authority](ubuntu/create-certificate-authority.md)
+- [Create Samba Active Directory Domain Controller](ubuntu/create-samba-active-directory-domain-controller.md)
 - [Enable automatic decryption using TPM](ubuntu/enable-automatic-decryption-using-tpm.md)
 - [Install Docker](ubuntu/install-docker.md)
 - [Install Helm](ubuntu/install-helm.md)

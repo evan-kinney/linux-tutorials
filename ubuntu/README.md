@@ -1,6 +1,7 @@
 # Ubuntu Tutorials
 
 - [Create Certificate Authority](create-certificate-authority.md)
+- [Create Samba Active Directory Domain Controller](create-samba-active-directory-domain-controller.md)
 - [Enable automatic decryption using TPM](enable-automatic-decryption-using-tpm.md)
 - [Install Docker](install-docker.md)
 - [Install Helm](install-helm.md)
