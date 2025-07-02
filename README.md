@@ -6,6 +6,7 @@
 - [Install Docker](debian/install-docker.md)
 - [Install Helm](debian/install-helm.md)
 - [Install Kubernetes](debian/install-kubernetes.md)
+- [Install Powerlevel10k](debian/install-p10k.md)
 
 ## [Proxmox](proxmox/README.md)
 
