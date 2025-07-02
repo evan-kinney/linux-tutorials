@@ -9,5 +9,6 @@
 ## [Ubuntu](ubuntu/README.md)
 
 - [Install Docker](ubuntu/install-docker.md)
+- [Install Helm](ubuntu/install-helm.md)
 - [Install Kubernetes](ubuntu/install-kubernetes.md)
 - [Install Powerlevel10k](ubuntu/install-p10k.md)
