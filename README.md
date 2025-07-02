@@ -20,6 +20,7 @@
 ## [Ubuntu](ubuntu/README.md)
 
 - [Create Certificate Authority](ubuntu/create-certificate-authority.md)
+- [Enable automatic decryption using TPM](ubuntu/enable-automatic-decryption-using-tpm.md)
 - [Install Docker](ubuntu/install-docker.md)
 - [Install Helm](ubuntu/install-helm.md)
 - [Install Kubernetes](ubuntu/install-kubernetes.md)

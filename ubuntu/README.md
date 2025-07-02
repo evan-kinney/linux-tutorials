@@ -1,6 +1,7 @@
 # Ubuntu Tutorials
 
 - [Create Certificate Authority](create-certificate-authority.md)
+- [Enable automatic decryption using TPM](enable-automatic-decryption-using-tpm.md)
 - [Install Docker](install-docker.md)
 - [Install Helm](install-helm.md)
 - [Install Kubernetes](install-kubernetes.md)
