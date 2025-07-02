@@ -753,7 +753,7 @@ apt remove os-prober
 systemctl set-default multi-user.target
 ```
 
-### Step 7: Connect to the Proxmox VE web interface
+### Step 9: Connect to the Proxmox VE web interface
 
 Connect to the admin web interface [https://your-ip-address:8006](https://your-ip-address:8006).
 If you have a fresh install and have not added any users yet, you should select
