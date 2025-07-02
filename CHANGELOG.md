@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/evan-kinney/linux-tutorials/compare/1.1.1...1.2.0) (2025-07-02)
+
+
+### Features
+
+* **debian:** Add Create Certificate Authority tutorial ([c04bf8e](https://github.com/evan-kinney/linux-tutorials/commit/c04bf8e3eec567861f021601afaa77b252638fed))
+* **debian:** Add Install Docker tutorial ([a5c4b72](https://github.com/evan-kinney/linux-tutorials/commit/a5c4b72499bcc800ffdd65f2cb63df2e0d2dec99))
+* **debian:** Add Install Helm tutorial ([544440c](https://github.com/evan-kinney/linux-tutorials/commit/544440c9174d0171e85ad04a129351098c1e93b2))
+* **debian:** Add Install Kubernetes tutorial ([62bcc75](https://github.com/evan-kinney/linux-tutorials/commit/62bcc75eb8018cf1f5e0f5557893eb9cbe0e380e))
+* **debian:** Add Install Powerlevel10k tutorial ([7aaef06](https://github.com/evan-kinney/linux-tutorials/commit/7aaef06ae391e5c83d337755d20b698c7fa8d593))
+* **debian:** Add Install Proxmox GRUB Theme tutorial ([28786f9](https://github.com/evan-kinney/linux-tutorials/commit/28786f9044e25042579b0585bf17282c634749f7))
+* **debian:** Add Install QEMU Guest Agent tutorial ([8e545fc](https://github.com/evan-kinney/linux-tutorials/commit/8e545fc3eaea239b3da2e23712f3e172a27d5a1e))
+* **ubuntu:** Add Create Certificate Authority tutorial ([2b30e8f](https://github.com/evan-kinney/linux-tutorials/commit/2b30e8fe8f821765e5ea3a00e97da35d9ce9431e))
+
 ## [1.1.1](https://github.com/evan-kinney/linux-tutorials/compare/1.1.0...1.1.1) (2025-07-02)
 
 
