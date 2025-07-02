@@ -3,6 +3,7 @@
 ## [Debian](debian/README.md)
 
 - [Create Certificate Authority](debian/create-certificate-authority.md)
+- [Enable automatic decryption using TPM](debian/enable-automatic-decryption-using-tpm.md)
 - [Install Docker](debian/install-docker.md)
 - [Install Helm](debian/install-helm.md)
 - [Install Kubernetes](debian/install-kubernetes.md)
