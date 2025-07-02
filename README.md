@@ -7,6 +7,7 @@
 - [Install Helm](debian/install-helm.md)
 - [Install Kubernetes](debian/install-kubernetes.md)
 - [Install Powerlevel10k](debian/install-p10k.md)
+- [Install Proxmox GRUB Theme](debian/install-proxmox-grub-theme.md)
 
 ## [Proxmox](proxmox/README.md)
 
