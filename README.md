@@ -8,6 +8,7 @@
 
 ## [Ubuntu](ubuntu/README.md)
 
+- [Create Certificate Authority](ubuntu/create-certificate-authority.md)
 - [Install Docker](ubuntu/install-docker.md)
 - [Install Helm](ubuntu/install-helm.md)
 - [Install Kubernetes](ubuntu/install-kubernetes.md)
