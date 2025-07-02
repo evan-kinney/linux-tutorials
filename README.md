@@ -3,6 +3,7 @@
 ## [Debian](debian/README.md)
 
 - [Create Certificate Authority](debian/create-certificate-authority.md)
+- [Install Docker](debian/install-docker.md)
 
 ## [Proxmox](proxmox/README.md)
 
