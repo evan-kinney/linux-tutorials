@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/evan-kinney/linux-tutorials/compare/1.2.0...1.3.0) (2025-07-02)
+
+
+### Features
+
+* **debian:** Add Enable automatic decryption using TPM tutorial ([c88b19e](https://github.com/evan-kinney/linux-tutorials/commit/c88b19ead2440b30fb8d57f74031b46efaebcb4e))
+* **ubuntu:** Add Create Samba Active Directory Domain Controller tutorial ([a2985ed](https://github.com/evan-kinney/linux-tutorials/commit/a2985ed41016d6aa926c07f34dd577a0ad275a75))
+* **ubuntu:** Add Enable automatic decryption using TPM tutorial ([cab88ac](https://github.com/evan-kinney/linux-tutorials/commit/cab88acd71c40ee4aa421fa1988a2fe4132eaae5))
+
 # [1.2.0](https://github.com/evan-kinney/linux-tutorials/compare/1.1.1...1.2.0) (2025-07-02)
 
 
