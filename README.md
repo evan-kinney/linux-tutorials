@@ -4,6 +4,7 @@
 
 - [Create Certificate Authority](debian/create-certificate-authority.md)
 - [Install Docker](debian/install-docker.md)
+- [Install Helm](debian/install-helm.md)
 - [Install Kubernetes](debian/install-kubernetes.md)
 
 ## [Proxmox](proxmox/README.md)
