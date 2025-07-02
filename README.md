@@ -8,4 +8,5 @@
 
 ## [Ubuntu](ubuntu/README.md)
 
+- [Install Docker](ubuntu/install-docker.md)
 - [Install Powerlevel10k](ubuntu/install-p10k.md)
