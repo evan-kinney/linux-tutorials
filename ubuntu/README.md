@@ -4,3 +4,4 @@
 - [Install Helm](install-helm.md)
 - [Install Kubernetes](install-kubernetes.md)
 - [Install Powerlevel10k](install-p10k.md)
+- [Install Proxmox GRUB Theme](install-proxmox-grub-theme.md)
